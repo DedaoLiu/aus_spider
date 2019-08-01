@@ -1,5 +1,5 @@
 # aus_spider
-This crawler extract the price of popular medicines from chemistware house.
+This crawler extracts the prices of popular medicines from chemistware house.
 
 Both english and chinese are supported.
 
