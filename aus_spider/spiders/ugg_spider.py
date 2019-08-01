@@ -6,9 +6,9 @@
 
 import scrapy
 from scrapy import *
-import urllib2
-a = urllib2.urlopen("http://au.ugg.com")
-print a.read()
+# import urllib2
+# a = urllib2.urlopen("http://au.ugg.com")
+# print(a.read())
 '''
 class UggSpider(scrapy.Spider):
     name = "ugg"
